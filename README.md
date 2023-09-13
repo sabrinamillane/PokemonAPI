@@ -10,9 +10,7 @@ HTTP Client: O módulo HTTP Client do Angular é usado para fazer chamadas à AP
 
 Angular Router: É usado para gerenciar a navegação entre diferentes páginas e detalhes de Pokémon.
 
-Angular Forms: Para implementar a funcionalidade de pesquisa avançada e filtros.
-
-HTML e CSS: Para estruturar a interface do usuário e aplicar estilos.
+HTML e SCSS: Para estruturar a interface do usuário e aplicar estilos.
 
 PokeAPI: É a fonte de dados principal para informações sobre Pokémon.
 ## Benefícios do Projeto
@@ -20,8 +18,6 @@ PokeAPI: É a fonte de dados principal para informações sobre Pokémon.
 Aprendizado: Os desenvolvedores podem aprender a trabalhar com APIs externas, consumir dados e exibir essas informações em uma aplicação Angular.
 
 Interatividade: Os usuários têm a oportunidade de explorar dados detalhados sobre Pokémon de uma forma interativa e amigável.
-
-Pesquisa Customizável: A pesquisa avançada permite que os usuários encontrem Pokémon com base em critérios específicos.
 
 Responsividade: O design responsivo garante que a aplicação seja acessível em uma variedade de dispositivos.
 
