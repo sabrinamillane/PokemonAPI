@@ -1,27 +1,28 @@
 # PokemonApi
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+O projeto em Angular com foco na integração com a PokeAPI é uma aplicação web que permite aos usuários explorar informações sobre Pokémon, como nomes, tipos, habilidades e estatísticas. A PokeAPI é uma API pública que fornece dados detalhados sobre todos os Pokémon existentes
 
-## Development server
+## Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Angular: A estrutura Angular é usada para criar a aplicação web.
 
-## Code scaffolding
+HTTP Client: O módulo HTTP Client do Angular é usado para fazer chamadas à API PokeAPI para recuperar dados sobre Pokémon.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Angular Router: É usado para gerenciar a navegação entre diferentes páginas e detalhes de Pokémon.
 
-## Build
+Angular Forms: Para implementar a funcionalidade de pesquisa avançada e filtros.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+HTML e CSS: Para estruturar a interface do usuário e aplicar estilos.
 
-## Running unit tests
+PokeAPI: É a fonte de dados principal para informações sobre Pokémon.
+## Benefícios do Projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Aprendizado: Os desenvolvedores podem aprender a trabalhar com APIs externas, consumir dados e exibir essas informações em uma aplicação Angular.
 
-## Running end-to-end tests
+Interatividade: Os usuários têm a oportunidade de explorar dados detalhados sobre Pokémon de uma forma interativa e amigável.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Pesquisa Customizável: A pesquisa avançada permite que os usuários encontrem Pokémon com base em critérios específicos.
 
-## Further help
+Responsividade: O design responsivo garante que a aplicação seja acessível em uma variedade de dispositivos.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Potencial Educativo: A aplicação pode ser uma ferramenta educativa para os fãs de Pokémon, ensinando sobre os diferentes Pokémon, seus tipos e habilidades.
